@@ -1,0 +1,1 @@
+Este projeto consiste em uma calculadora desenvolvida em Kotlin para realizar operações aritméticas básicas, como adição, subtração, multiplicação e divisão. A calculadora permite que o usuário insira os números e realize as operações desejadas com facilidade.
